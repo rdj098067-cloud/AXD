@@ -11,7 +11,7 @@
 - [Features Overview](#features-overview)
 - [Quick Setup](#quick-setup)
 - [Manual Installation Steps](#manual-installation-steps)
-- [Support Server](https://discord.gg/QnWNz2dKCE)
+- [Support Server](https://discord.gg/AncientDynasty)
 - [Required Bot Intents](#bot-intents)
 - [Contributing](CONTRIBUTING.md)
 
